@@ -1,2 +1,2 @@
 # release-drafter-example
-testing releaes drafter
+testing releaes drafter << temp_branch
